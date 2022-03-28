@@ -1,7 +1,10 @@
 # HTML-Assignment1
 Exercise 1.1
   # When a user enters an URL in the browser, how does the browser fetch the desired result ?
-  When you type “https://google.com ” into browser, starting it will matches the Domain Name Server (DNS) of “google.com ” to an IP address. Next browser sends an (HTTP) request to server, now server send back an HTTP response. The browser renders the HTML on page also requesting any additional resources such as CSS, JavaScript, images, etc. Each request completes a request/response cycle and is rendered in turn by the browser. The URL looks for webpage in hard disk, it returns the webpage.
+  When you type “http://server.com ” into browser, starting it will matches the Domain Name Server (DNS) of “server.com ” to an IP address. Next browser sends an (HTTP) request to server, now server send back an HTTP response. The browser renders the HTML on page also requesting any additional resources such as CSS, JavaScript, images, etc. Each request completes a request/response cycle and is rendered in turn by the browser. The URL looks for webpage in hard disk, it returns the webpage.
+  
+  ![1648221687547](https://user-images.githubusercontent.com/52990768/160440451-e4a41857-bdc4-42ee-8f6c-4b82cf41ab2a.jpg)
+
 
 # What is main functionality of browser
 Browser user interfaces have a lot in common with each other. Among the common user interface elements are:
